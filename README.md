@@ -24,7 +24,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Markdown   54 mins         █████████████████████████   100.00 % 
+Markdown   3 hrs 29 mins   ████████████████████████▓   98.86 % 
+YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 <!--END_SECTION:waka-->
 
