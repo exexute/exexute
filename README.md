@@ -25,9 +25,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-YAML         35 mins         █████████████████▒░░░░░░░   69.86 %
-EJS          15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
