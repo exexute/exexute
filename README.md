@@ -25,8 +25,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java            7 hrs 54 mins   █████████████████░░░░░░░░   68.06 %
-Other           2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+Java           9 hrs 34 mins   █████████████████▓░░░░░░░   70.19 %
+Other          2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
 ```
 
 <!--END_SECTION:waka-->
