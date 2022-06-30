@@ -9,7 +9,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 🌱 I’m currently learning DevOps/k8s
-- 👯 I’m looking to collaborate on DevSecOps、IAST or RASP
+- 👯 I’m looking to collaborate on DevSecOps、IAST、SAST or RASP
 - 💬 ask me about anything, i am happy to help; [email](mailto:owefsad@gmail.com) :)
 
 **languages and tools:**  
