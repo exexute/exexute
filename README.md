@@ -25,10 +25,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java             5 hrs 17 mins   ███████████████████░░░░░░   76.17 %
-XML              52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Markdown         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-CLASS            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Java             6 hrs 17 mins   ███████████████████░░░░░░   75.80 %
+XML              1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Markdown         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+CLASS            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 PlantUML file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
