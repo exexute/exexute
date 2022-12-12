@@ -25,9 +25,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java       27 mins         █████████████████████▓░░░   86.45 %
-XML        4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java       12 mins         ██████████████████████▒░░   89.60 %
+XML        1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
