@@ -25,12 +25,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java             2 hrs 9 mins    █████████████░░░░░░░░░░░░   52.08 %
-XML              1 hr 40 mins    ██████████░░░░░░░░░░░░░░░   40.34 %
-textmate         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+XML              1 hr 13 mins    ███████████▒░░░░░░░░░░░░░   45.66 %
+Java             1 hr 10 mins    ███████████░░░░░░░░░░░░░░   43.93 %
+textmate         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
