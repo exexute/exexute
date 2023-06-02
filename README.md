@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 YAML             40 mins         █████████████▒░░░░░░░░░░░   53.36 %
 Go               28 mins         █████████▒░░░░░░░░░░░░░░░   36.76 %
 RPMSpec          6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
