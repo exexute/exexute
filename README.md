@@ -25,11 +25,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             40 mins         █████████████▒░░░░░░░░░░░   53.36 %
-Go               28 mins         █████████▒░░░░░░░░░░░░░░░   36.76 %
-RPMSpec          6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+YAML             40 mins         ████████████▓░░░░░░░░░░░░   51.01 %
+Go               28 mins         ████████▓░░░░░░░░░░░░░░░░   35.15 %
+RPMSpec          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+textmate         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Makefile         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
