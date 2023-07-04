@@ -25,7 +25,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML                  1 hr 16 mins    █████████████████░░░░░░░░   67.86 %
+Docker                9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+textmate              6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Java                  4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON                  3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
